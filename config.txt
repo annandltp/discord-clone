@@ -1,0 +1,15 @@
+planetscale
+pass: main-2023-10-19-80925u
+username: 4s2a1ejgkap5jv9wgr1k
+pass: pscale_pw_jGJSwQDlquMb9sJLEStDY4S2EGVbu0P7L6Gw1l2DLeI
+
+
+# Tech
+- PlanetScale
+- UploadThing
+- ShadOn
+- Prisma
+- Clerk
+- Next Js
+- Express Js
+- React Js
